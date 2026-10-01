@@ -239,4 +239,4 @@ This repository serves as the official landing page for Farkle. The software is 
 **Get the most recent version of Farkle today!**
 
 ---
-**Last updated:** 2026-10-01 01:53:39 UTC
+**Last updated:** 2026-10-01 08:34:27 UTC
